@@ -35,6 +35,7 @@
 .common-card{
      background-color:#FFFFFF;
      border: 1px solid #F2EDED;
+     border-radius: 14px;
 }
 /* header section */
 .header-picture{
@@ -137,7 +138,7 @@
      padding: 50px 142px;
 }
 
-.section-productive .join-Thousands {
+.section-productive .join-Thousands .Joined-Users {
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 142px;
