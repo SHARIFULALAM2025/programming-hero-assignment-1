@@ -76,6 +76,12 @@
      color: #FFFFFF;
      border-radius: 10px;
 }
+.header-picture .header-navbar button :hover{
+     background-color: #4766ffc1;
+     cursor: pointer;
+     color: #fff;
+
+}
 .header-picture .header-navbar span{
      font-size: 34px;
      color: #4E47FF;
@@ -114,6 +120,12 @@
      padding: 12px 36px;
      border: none;
     margin-top: 23px;
+
+}
+.action-type .image-action .text-action button :hover{
+     background-color: #4766ffc1;
+     cursor: pointer;
+     color: #fff;
 
 }
 .action-type .image-action img{
@@ -245,6 +257,12 @@
      color: #FFFFFF;
      border-radius: 10px;
 }
+.ready button :hover{
+     background-color: #4766ffc1;
+     cursor: wait;
+     color: #fff;
+
+}
 .ready .ready-better img{
      border-radius: 48px;
      margin-bottom: 71px;
@@ -295,6 +313,12 @@
      color: #FFFFFF;
      border: none;
      margin-top: 19px;
+}
+.touch .Get-in-Touch .Touch-text button :hover{
+     background-color: #4766ffc1;
+     cursor: pointer;
+     color: #fff;
+
 }
 .touch .Get-in-Touch .Touch-text form{
      margin: 71px 0px;
